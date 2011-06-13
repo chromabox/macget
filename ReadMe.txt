@@ -1,5 +1,5 @@
 
-Windows�����ɂ����āANAT��Mac�A�h���X���̑����X���擾���邾���̃T���v��
-IPHelper��NetBios�ƂQ��ނ̕��@�������܂��B
-�v���O�������łǂ����Ă���肽�����ĂƂ��̎Q�l�ɂ��Ă��������B
-�Ȃ��AVisualC�ŃR���p�C�����Ă��������B
+Windows環境下において、NATのMacアドレスその他諸々を取得するだけのサンプル
+IPHelperとNetBiosと２種類の方法が試せます。
+プログラム内でどうしても取りたいってときの参考にしてください。
+なお、VisualCでコンパイルしてください。
